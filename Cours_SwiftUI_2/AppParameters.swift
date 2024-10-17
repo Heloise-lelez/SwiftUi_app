@@ -39,7 +39,7 @@ enum availableApps:String{
         switch self{
         case .rockPaperScissors : return "rps"
         case .calculator : return "calculator"
-        case .memory : return "duck"
+        case .memory : return "Qwacky"
         }
     }
     
